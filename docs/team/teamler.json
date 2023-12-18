@@ -3296,5 +3296,14 @@
       "initial": "expert",
       "17.12.2023": "supporter"
     }
-  }
+  },
+    {
+    "name": "Grafjojo",
+    "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "18.12.2023": "developer"
+    }
+      }
 ]
